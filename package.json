@@ -73,7 +73,7 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@modelcontextprotocol/node": "2.0.0",
-    "@modelcontextprotocol/server": "2.0.0",
+    "@modelcontextprotocol/server": "2.3.0",
     "@modelcontextprotocol/server-filesystem": "2026.8.31",
     "@types/node": "^26.4.1",
     "@types/proper-lockfile": "^4.1.4",
